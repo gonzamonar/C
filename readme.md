@@ -4,9 +4,7 @@
 
 ## Sistema de Gestión de Salas Cinépolis
 
-### APP de Consola
-### Plataforma Windows
-### IDE Eclipse - Compiler GCC 9.2.0
+### APP de Consola | Plataforma Windows | IDE Eclipse - Compiler GCC 9.2.0
 
 ### Descripción: Sistema tipo Punto de Venta de entradas de cine.
 #### Funcionalidades:
