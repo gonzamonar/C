@@ -1,0 +1,11 @@
+
+
+#ifndef CONTROLLER_CONTROLLER_COMPRAS_H_
+#define CONTROLLER_CONTROLLER_COMPRAS_H_
+
+
+
+#endif /* CONTROLLER_CONTROLLER_COMPRAS_H_ */
+
+
+void controller_procesarCompra();

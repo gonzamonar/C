@@ -1,0 +1,8 @@
+idTarifa,tipoSala,tipoEntrada,precio
+102,2D,Cargo de servicio 2D,60
+103,3D,Cargo de servicio 3D,60
+200,2D,General,1200
+250,2D,Lunes Martes y Miércoles 50%,600
+265,2D,Niños y Mayores de 65 años,950
+300,3D,General,1600
+350,3D,Lunes Martes y Miércoles 50%,800
